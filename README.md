@@ -1,4 +1,5 @@
 # coingecko-api
+[Deploy](https://coins-market-2021.netlify.app/)
 
 ## Project setup
 ```
